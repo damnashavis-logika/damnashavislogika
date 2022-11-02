@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'bpg_nino_mtavruli_bold';
+  src: url(../fonts/bpg_nino_mtavruli_bold.eot);
+  src: url(../fonts/bpg_nino_mtavruli_bold.eot?#iefix) format('embedded-opentype'),
+       url(../fonts/bpg_nino_mtavruli_bold.otf) format('otf'),
+       url(../fonts/bpg_nino_mtavruli_bold.svg#bpg_nino_mtavruli_bold) format('svg'),
+       url(../fonts/bpg_nino_mtavruli_bold.ttf) format('truetype'),
+       url(../fonts/bpg_nino_mtavruli_bold.woff) format('woff'),
+       url(../fonts/bpg_nino_mtavruli_bold.woff2) format('woff2');
+}
+
+
+@font-face {
+  font-family: 'bpg_nino_mtavruli_normal';
+  src: url(../fonts/bpg_nino_mtavruli_normal.eot);
+  src: url(../fonts/bpg_nino_mtavruli_normal.eot?#iefix) format('embedded-opentype'),
+       url(../fonts/bpg_nino_mtavruli_normal.otf) format('otf'),
+       url(../fonts/bpg_nino_mtavruli_normal.svg#bpg_nino_mtavruli_normal) format('svg'),
+       url(../fonts/bpg_nino_mtavruli_normal.ttf) format('truetype'),
+       url(../fonts/bpg_nino_mtavruli_normal.woff) format('woff'),
+       url(../fonts/bpg_nino_mtavruli_normal.woff2) format('woff2');
+}
+
+
